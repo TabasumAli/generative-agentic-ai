@@ -64,5 +64,5 @@ Converts unstructured raw API outputs into formatted UI elements.
 Combines: Python, Streamlit, Groq API / LLMs, Regex text parsing, Custom CSS styling, Iterative feedback handling, Session state management, and Defensive exception handling.
 
 User Criteria → Prompt Construction → AI Generation → JSON Parsing → Interactive UI → Exportable Asset
-
+Github link: https://github.com/TabasumAli/Content-Writing-Assistant
 The goal isn't just to call an LLM API. The goal is to turn raw model outputs into a practical, multi-platform publishing workspace.
