@@ -69,5 +69,6 @@ Explains **why** the score is what it is and **what** to improve.
 Combines: Python, Streamlit, Groq / LLMs, PDF & DOCX processing, Regular expressions, Structured JSON, Prompt engineering, Error handling, and Interactive UI design.
 
 Real Problem → Document Processing → AI Integration → Structured Output → Interactive UI → Useful Product
+Github link: https://github.com/TabasumAli/AI-Resume_Analyzer
 
 **The goal isn't just to connect an AI API to an application. The goal is to turn AI into something genuinely useful.**
