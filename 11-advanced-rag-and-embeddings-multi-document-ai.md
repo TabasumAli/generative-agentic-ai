@@ -374,3 +374,6 @@ If the documents do not contain an answer, the assistant should clearly say that
 9. A reliable assistant should provide evidence-based answers with clear sources.
 
 > **A powerful RAG system is not the one that retrieves the most text. It is the one that retrieves the right evidence and uses it correctly.**
+
+
+Github: https://github.com/TabasumAli/advanced_rag_doc_assistant
