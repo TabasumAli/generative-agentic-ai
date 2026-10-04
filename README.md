@@ -1152,7 +1152,7 @@ Research AI
 
 This learning journey was organized with the support of:
 
-### Pak Angels & Aspira Pakistan
+### Pak Angels & Aspire Pakistan
 
 Special credit to:
 
